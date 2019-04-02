@@ -1,0 +1,65 @@
+[
+  {
+    "name": "Вино вдохновение",
+    "price": "600",
+    "src": "\\images\\products\\Work1.jpg",
+    "number": "23",
+    "text": "Возраст начала занятий на скрипке"
+  },
+  {
+    "name": "Вино вдохновение",
+    "price": "650",
+    "src": "\\images\\products\\Work2.jpg",
+    "number": "3",
+    "text": "Концертов отыграл"
+  },
+  {
+    "name": "Вино вдохновение",
+    "price": "100",
+    "src": "\\images\\products\\Work3.jpg",
+    "number": "16",
+    "text": "Максимальное число городов в туре"
+  },
+  {
+    "name": "Вино вдохновение",
+    "price": "400",
+    "src": "\\images\\products\\Work4.jpg",
+    "number": "2",
+    "text": "Лет на сцене в качестве скрипача"
+  },
+  {
+    "name": "Вино вдохновение",
+    "price": "1100",
+    "src": "\\images\\products\\Work5.jpg"
+  },
+  {
+    "name": "Вино вдохновение",
+    "price": "450",
+    "src": "\\images\\products\\Work6.jpg"
+  },
+  {
+    "name": "Вино вдохновение",
+    "price": "550",
+    "src": "\\images\\products\\Work7.jpg"
+  },
+  {
+    "name": "Вино вдохновение",
+    "price": "600",
+    "src": "\\images\\products\\Work8.jpg"
+  },
+  {
+    "name": "Вино вдохновение",
+    "price": "900",
+    "src": "\\images\\products\\Work9.jpg"
+  },
+  {
+    "name": "GL6192",
+    "price": "1500",
+    "src": "\\images\\products\\6192.jpg"
+  },
+  {
+    "name": "NKP",
+    "price": "10",
+    "src": "\\images\\products\\photobig.png"
+  }
+]

@@ -1,0 +1,15 @@
+extends layout
+
+block content
+    div.wrapper
+        section.login__container
+            form(class="form-login" action="/login" method="POST")
+                if (msgslogin)
+                    .status= msgslogin
+                .form-login__line
+                    label.form-login__label(for="") Hello
+                    input.form-login__input(type="email" name="email" placeholder="E-MAIL" value="asd@mail.ru")
+                .form-login__line
+                    input.form-login__input(type="password" name="password" placeholder="Пароль" value='asd')
+                .form-login__line
+                    button(type="submit").form-login__button Войти
