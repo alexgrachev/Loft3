@@ -1,0 +1,13 @@
+﻿{
+  "mail": {
+    "subject": "Loftschool 3: Сообщение с сайта",
+    "smtp": {
+      "service": "gmail",
+      "auth": {
+        "user": "email-here@gmail.com",
+        "pass": "password"
+      }
+    }
+  }
+}
+
