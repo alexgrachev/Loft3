@@ -2,8 +2,6 @@
 
 /nodejs-hw34/node_modules
 
-email_config.json
-
 # Numerous always-ignore extensions
 *.bak
 *.diff
